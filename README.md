@@ -21,6 +21,8 @@ A cute, aesthetic, interactive web-based To-Do List application.
 
 [Click here for video presentation](https://video.laurea.fi/media/Project+1%3A+DOM+Scripting+recording/0_1gniht7j)
 
+[Click here for published application](https://moonchild030.github.io/Project-1-DOM-Scripting/)
+
 **Technologies**
 
 - HTML: Core semantic markup, input elements, structural containers, and accessibility attributes.
