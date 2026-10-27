@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <!-- Font Awesome Icons CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Google Fonts Import (Jua) -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Jua&family=Knewave&family=Risque&display=swap');
+    </style>
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+<!-- Main Application Wrapper Container -->
+<div class="container">
+    <!-- Decorative Aesthetic Images -->
+    <img src="Images/monkey.png" alt="Monkey" id="PomPom">
+    <img src="Images/Pink_strawberry-removebg-preview.png" alt="Strawberry" id="Strawberry">
+    <!-- Top Header Section (Date Widget & App Title) -->
+    <div class="top">
+        <!-- Dynamic Date & Time Display Box -->
+        <div class="datetime">
+            <span id="day">Day</span>
+            <span id="dayNumber">00</span>
+            <span id="month">Month</span>
+            <span id="year">0000</span>
+        </div>
+        <!-- Application Heading Title -->
+        <div class="title">To-Do List</div>
+    </div>
+
+    <!-- Progress Tracking Section -->
+    <div class="progressionbar">
+        <h3>Progress</h3>
+        <div class="progress">
+        <div class="progress-bar">
+            <div class="progress-fill"></div>
+        </div>
+    </div>
+    <!-- Task Counter Display (Completed / Total) -->
+        <p class="progresscount">
+            <span class="totalTaskdone"></span>
+            <span class="slash">/</span>
+            <span class="totalTask"></span>
+        </p>
+    </div>   
+
+
+<!-- Task Input Section (Text Field & Add Button) -->
+    <div class="task-input">
+        <input type="text" id="taskInput" class="input-task-field" placeholder="Add a new task...">
+        <button id="addButton" class="add-button">+</button>
+    </div>
+
+<!-- Error Message Display for Input Validation -->
+    <span id="errorMessage" class="error-message"></span>
+
+<!-- Dynamic Task List Container -->
+    <ul id="taskList" style="width: 100%; list-style: none; padding: 0;"></ul>
+</div>
+
+</body>
+</html>
