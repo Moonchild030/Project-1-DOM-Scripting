@@ -46,20 +46,18 @@ A cute, aesthetic, interactive web-based To-Do List application.
 Personally I found the project quite fun and enjoyable to do. There were some stuff I needed to ask my partner how to do like how to add a slash to the code. I also found struggling how to make tyhe checkmarks work and howto add suffixes. I also really liked going through the internet and trying to find different cute fonts to use for my project and different pictures. I learned a lot and maybe in the future I'll have the time to edit the project and add an edit feature to it and add some complexity if you can even do that. 
 
 **Some of the sources I used for code and pictures:**
+Font Awesome (n.d.) Icon Library CDN v6.5.1. Available at: https://fontawesome.com (Accessed: 22 October 2026).
 
+Gemini (2026) Assisted in debugging HTML nesting structures, resolving CSS flexbox alignment issues. AI tool usage log.
 
-https://stackoverflow.com/questions/13627308add-st-nd-rd-and-th-ordinal-suffix-to-a-number- How to add suffix to a number
+Google Fonts (n.d.) Jua Font Family. Available at: https://fonts.google.com/specimen/Jua (Accessed: 24 October 2026).
 
-https://www.w3schools.com/jsref/prop_html_innerhtml.asp- Reading I did on W3schools
+Pinterest (n.d.a) Monchichi. Available at: https://pin.it/2knVUNMAj (Accessed: 26 October 2026).
 
-https://pin.it/3kcMU04qx -Strawberry picture
+Pinterest (n.d.b) Strawberry picture. Available at: https://pin.it/3kcMU04qx (Accessed: 26 October 2026).
 
-https://pin.it/2knVUNMAj- Monchichi
+Remove.bg (n.d.) Remove image background. Available at: https://www.remove.bg/upload (Accessed: 26 October 2026).
 
-https://www.remove.bg/upload- To make the two pictures pngs
+Stack Overflow (2012) How to add st, nd, rd, and th ordinal suffix to a number, 24 October. Available at: https://stackoverflow.com/questions/13627308/add-st-nd-rd-and-th-ordinal-suffix-to-a-number (Accessed: 24 October 2026).
 
-Google Fonts:[Jua Font Family](https://fonts.google.com/specimen/Jua)
-Font Awesome:[Icon Library CDN v6.5.1](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css)
-
-AI Tool Used: Gemini
-How the tool was used: Assisted in debugging HTML nesting structures, resolving CSS flexbox alignment issues
+W3Schools (n.d.) JavaScript HTML DOM innerHTML. Available at: https://www.w3schools.com/jsref/prop_html_innerhtml.asp (Accessed: 20 October 2026).
